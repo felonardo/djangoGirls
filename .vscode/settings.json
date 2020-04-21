@@ -3,5 +3,5 @@
     "python.linting.enabled": true,
     "python.linting.pylamaEnabled": false,
     "python.linting.banditEnabled": false,
-    "python.linting.pep8Enabled": true
+    "python.linting.pycodestyleEnabled": true
 }

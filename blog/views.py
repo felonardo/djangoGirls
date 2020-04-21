@@ -1,5 +1,5 @@
 from django.shortcuts import render, get_object_or_404, redirect
-from .models import Post,Comment
+from .models import Post,Comment,Category
 from django.utils import timezone
 from .forms import PostForm, CommentForm
 
